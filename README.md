@@ -35,7 +35,8 @@ This project containing below informations:
 				total_acc_y_train.txt
 				total_acc_z_train.txt
 
-2. run_analysis.R : R script that clean the above datasets and generate tidy dataset (tidy.csv) for further process
+2. run_analysis.R : R script that clean the above datasets and generate tidy dataset (tidy.csv) for further process, copy this script to / and then source("run_analysis.R")
+
 
 3. tidy.csv: a tidy dataset after raw datasets processed by run_analysis.R
 
